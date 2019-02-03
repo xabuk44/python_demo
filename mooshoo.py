@@ -9,3 +9,5 @@ print('Our program')
 # print(value)
 print(cashback(10_000))
 print(cashback(20_000))
+
+bmi(160, 160)
